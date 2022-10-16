@@ -1,0 +1,9 @@
+# How to start php
+
+Open XMAPP Control 
+    Start Apache and MySQL
+    For Google:
+        Download Live Server Extension
+            Actual Server Address: localhost/"name"/
+            Live Server Address: localhost:5500
+    
