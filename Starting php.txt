@@ -2,6 +2,8 @@
 
 Open XMAPP Control 
     Start Apache and MySQL
+    Open PHP file on VSCode
+        Right Click -> Serve Project
     For Google:
         Download Live Server Extension
             Actual Server Address: localhost/"name"/
