@@ -1,11 +1,19 @@
 # How to start php
+Learning PHP from: "PHP For Beginners | 3+ Hour Crash Course"
+https://www.youtube.com/watch?v=BUCiSSyIGGU
 
 Open XMAPP Control 
     Start Apache and MySQL
     Open PHP file on VSCode
         Right Click -> Serve Project
+
+To Auto reload
+    Need 3 Extensions
+        1: Live Server
+        2: PHP Server
+        3: PHP Intelephense
     For Google:
         Download Live Server Extension
             Actual Server Address: localhost/"name"/
             Live Server Address: localhost:5500
-    
+    Click "Go Live" at bottom of VSCode window
